@@ -4,7 +4,7 @@
   "author": "Marn Htet Zan",
   "type": "module",
   "engines": {
-    "node": "18.8.0"
+    "node": ">=14 <15"
   },
   "scripts": {
     "start": "node index.js",
