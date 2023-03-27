@@ -3,6 +3,9 @@
   "packageManager": "yarn@3.2.3",
   "author": "Marn Htet Zan",
   "type": "module",
+  "engines": {
+    "node": "18.8.0"
+  },
   "scripts": {
     "start": "node index.js",
     "dev": "nodemon index.js"
